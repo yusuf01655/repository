@@ -1,0 +1,10 @@
+C:\Users\Yusuf\source\repos\Radio GUI\Radio GUI\bin\Debug\Radio GUI.exe.config
+C:\Users\Yusuf\source\repos\Radio GUI\Radio GUI\bin\Debug\Radio GUI.exe
+C:\Users\Yusuf\source\repos\Radio GUI\Radio GUI\bin\Debug\Radio GUI.pdb
+C:\Users\Yusuf\source\repos\Radio GUI\Radio GUI\obj\Debug\Radio GUI.csprojAssemblyReference.cache
+C:\Users\Yusuf\source\repos\Radio GUI\Radio GUI\obj\Debug\Radio_GUI.Form1.resources
+C:\Users\Yusuf\source\repos\Radio GUI\Radio GUI\obj\Debug\Radio_GUI.Properties.Resources.resources
+C:\Users\Yusuf\source\repos\Radio GUI\Radio GUI\obj\Debug\Radio GUI.csproj.GenerateResource.cache
+C:\Users\Yusuf\source\repos\Radio GUI\Radio GUI\obj\Debug\Radio GUI.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\Radio GUI\Radio GUI\obj\Debug\Radio GUI.exe
+C:\Users\Yusuf\source\repos\Radio GUI\Radio GUI\obj\Debug\Radio GUI.pdb
